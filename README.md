@@ -22,7 +22,7 @@ For Windows
 > behave
 
 ### More notes
-- All the tests documentations written with Gherkin can be found in the `features` folder.
+- All the tests documentation written with Gherkin can be found in the `features` folder.
 
 
 
